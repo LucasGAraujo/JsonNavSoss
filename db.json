@@ -1,9 +1,18 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+{"Solicitacao":[
+  {
+    "id": "1",
+    "Valor": "120,00",
+    "OquePrecisa":"Chaveiro"
+  },
+  {
+    "id": "2",
+    "Valor": "90,00",
+    "OquePrecisa":"Bateria"
+  },
+  {
+    "id": "3",
+    "Valor": "50,00",
+    "OquePrecisa":"Troca de Pneu"
+  },
+]
 }
